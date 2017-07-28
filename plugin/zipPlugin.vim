@@ -1,4 +1,5 @@
 let g:zipPlugin_ext_dict = {
+            \ 'mfh': '','sfh': '',
             \ 'apk': '','celzip': '','crtx': '','docm': '',
             \ 'docx': '','dotm': '','dotx': '','ear': '',
             \ 'epub': '','gcsx': '','glox': '','gqsx': '',
